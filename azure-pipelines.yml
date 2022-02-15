@@ -1,6 +1,7 @@
 stages:
   - stage: a
-
+    jobs:
+      - job: 
 trigger:
   - '*'
   
